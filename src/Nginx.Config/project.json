@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0-*",
+  "dependencies": {},
+  "frameworks": {
+    "netstandard1.3": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0"
+      },
+      "imports": "dnxcore50"
+    }
+  },
+  "authors": [
+      "Elijah Bate (ebyte23)"
+  ],
+  "copyright": "© Copyright 2016. Elijah Bate",
+  "title": "Nginx.Config",
+  "description": "",
+  "language": "en-us",
+  "packOptions": {
+      "owners": [
+          "ebyte23"
+      ],
+      "repository": {
+          "type": "git",
+          "url": "https://github.com/ebyte23/Nginx.Config"
+      }
+  }
+}
